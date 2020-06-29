@@ -1,5 +1,11 @@
 '''
-There is a test of Algorithms. Teacher provides a question bank consisting of N questions and guarantees all the questions in the test will be from this question bank. Due to lack of time and his laziness, Codu could only practice M questions. There are T questions in a question paper selected randomly. Passing criteria is solving at least 1 of the T problems. Codu can’t solve the question he didn’t practice. What is the probability that Codu will pass the test?
+There is a test of Algorithms. 
+Teacher provides a question bank consisting of N questions and guarantees all the questions in the test will be from this question bank.
+Due to lack of time and his laziness, Codu could only practice M questions. 
+There are T questions in a question paper selected randomly. 
+Passing criteria is solving at least 1 of the T problems.
+Codu can’t solve the question he didn’t practice. 
+What is the probability that Codu will pass the test?
 
 Input Format
 First line contains single integer T denoting the number of test cases.
